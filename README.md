@@ -1,2 +1,2 @@
 # Javascript-Practice
-JS Practice Repo
+All codes are in the master branch
